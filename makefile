@@ -1,4 +1,4 @@
-FILE_NAME = 20231231-C++
+FILE_NAME = NJUSE-Beamer-Template
 TEX_FILE = "$(FILE_NAME).tex"
 # PDF_FILE = $(FILE_NAME).pdf
 
